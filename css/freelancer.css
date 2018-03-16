@@ -29,14 +29,13 @@ hr.star-light {
   border-color: #fff; }
 
 hr.star-light:after {
-  color: #fff;
-  background-color: #AAFFEC; }
+  color: #fff; }
 
 hr.star-dark {
-  border-color: #FFBF84; }
+  border-color: #5CB2AD; }
 
 hr.star-dark:after {
-  color: #FFBF84;
+  color: #5CB2AD;
   background-color: white; }
 
 hr.borderbottom {
@@ -239,11 +238,11 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #FFBF84;
+  background-color: #5CB2AD;
   color: #fff; }
 
 .copyright {
-  background-color: #ffa451; }
+  background-color: #469590; }
 
 a {
   color: #AAFFEC; }
@@ -257,13 +256,13 @@ a {
   background-color: #AAFFEC !important; }
 
 .bg-secondary {
-  background-color: #FFBF84 !important; }
+  background-color: #5CB2AD !important; }
 
 .text-primary {
   color: #AAFFEC !important; }
 
 .text-secondary {
-  color: #FFBF84 !important; }
+  color: #5CB2AD !important; }
 
 .btn-primary {
   background-color: #AAFFEC;
@@ -273,8 +272,8 @@ a {
     border-color: #77ffe1; }
 
 .btn-secondary {
-  background-color: #FFBF84;
-  border-color: #FFBF84; }
+  background-color: #5CB2AD;
+  border-color: #5CB2AD; }
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-    background-color: #ffa451;
-    border-color: #ffa451; }
+    background-color: #469590;
+    border-color: #469590; }
