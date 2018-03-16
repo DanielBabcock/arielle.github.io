@@ -1,0 +1,62 @@
+/* Google Fonts
+font-family: 'Sacramento', cursive;
+font-family: 'Cabin Sketch', cursive;
+ */
+
+/*Main Content Styles  */
+
+.title-main {
+/*   background: rgba(211,211,211, .5); */
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5em;
+  text-shadow: 1px 1px 3px rgba(255,255,255,.75);
+  padding: 15px;
+/*   border-radius: 95%; */
+}
+
+.main {
+  
+  background-image: url("../arielle.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+p {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+.learnButton {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+
+/* Foir Styles */
+
+
+.outer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(196, 116, 111, .75);
+  color: white;
+  padding: 2em;
+  
+}
+h4 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2em;
+}
+
+
+.item {
+  font-family: 'Cabin Sketch', cursive;
+  color: rgba(255,255,255, .75);
+
+
+}
+
+.social-media-icon {
+  width: 50px;
+}
